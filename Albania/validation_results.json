@@ -1,0 +1,63 @@
+{
+  "python": "3.11.17",
+  "numpy": "2.2.4",
+  "full": {
+    "rows": 3600,
+    "tp": 277,
+    "fp": 6,
+    "fn": 10,
+    "f1": 0.9719298245614035,
+    "recall": {
+      "point": 1.0,
+      "drift": 0.9444444444444444,
+      "collective": 1.0
+    },
+    "score": 97.33771929824562,
+    "seconds": 0.20595800003502518
+  },
+  "first_1800": {
+    "rows": 1800,
+    "tp": 88,
+    "fp": 0,
+    "fn": 6,
+    "f1": 0.967032967032967,
+    "recall": {
+      "point": 1.0,
+      "drift": 0.9,
+      "collective": 1.0
+    },
+    "score": 96.61263736263737,
+    "seconds": 0.07517904101405293
+  },
+  "last_1800_fresh": {
+    "rows": 1800,
+    "tp": 186,
+    "fp": 6,
+    "fn": 7,
+    "f1": 0.9662337662337662,
+    "recall": {
+      "point": 1.0,
+      "drift": 0.9416666666666667,
+      "collective": 1.0
+    },
+    "score": 96.8612012987013,
+    "seconds": 0.06537329102866352
+  },
+  "last_900_fresh": {
+    "rows": 900,
+    "tp": 97,
+    "fp": 6,
+    "fn": 0,
+    "f1": 0.97,
+    "recall": {
+      "point": 1.0,
+      "drift": 1.0,
+      "collective": 1.0
+    },
+    "score": 97.6,
+    "seconds": 0.0325221250532195
+  },
+  "runtime_36000_rows_seconds": 1.3242732910439372,
+  "max_sensor_history": 256,
+  "regression_tests": "4 passed"
+}

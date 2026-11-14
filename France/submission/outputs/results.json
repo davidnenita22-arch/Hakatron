@@ -1,0 +1,81 @@
+{
+  "flag": "SIGMOID_NEURON",
+  "method": "Full-record public-source matching, HDBSCAN in four dimensions, local PCA, human glyph reading",
+  "input_sha256": "7c4f5c573678f30651e7dde0da7b6587e384a8b52fa8ca4eae11c00f8312ff8f",
+  "reference_url": "https://data.insideairbnb.com/france/ile-de-france/paris/2026-09-16/data/listings.csv.gz",
+  "reference_sha256": "3285e5096c1869a684d5e65eb38526f07aa16bdc41cd76686feba8a2b78bd019",
+  "rows": 28108,
+  "exact_source_matches": 26162,
+  "candidate_rows": 1946,
+  "candidate_noise_rows": 1,
+  "artwork_rows": 1945,
+  "background_rows": 26163,
+  "clusters": [
+    {
+      "cluster": 1,
+      "letter": "N",
+      "count": 297,
+      "mean_price": 102.08589225589226,
+      "mean_availability_365": 48.53198653198653,
+      "pca_variance_explained": 0.956945246771604,
+      "view_rotation_degrees": 330,
+      "view_flip_vertical": false
+    },
+    {
+      "cluster": 2,
+      "letter": "E",
+      "count": 304,
+      "mean_price": 134.0708552631579,
+      "mean_availability_365": 274.2006578947368,
+      "pca_variance_explained": 0.9480395396053358,
+      "view_rotation_degrees": 320,
+      "view_flip_vertical": false
+    },
+    {
+      "cluster": 3,
+      "letter": "U",
+      "count": 337,
+      "mean_price": 185.54347181008902,
+      "mean_availability_365": 335.6379821958457,
+      "pca_variance_explained": 0.9547537632751227,
+      "view_rotation_degrees": 270,
+      "view_flip_vertical": false
+    },
+    {
+      "cluster": 4,
+      "letter": "R",
+      "count": 315,
+      "mean_price": 252.03114285714284,
+      "mean_availability_365": 176.30793650793652,
+      "pca_variance_explained": 0.9656758602042914,
+      "view_rotation_degrees": 90,
+      "view_flip_vertical": true
+    },
+    {
+      "cluster": 5,
+      "letter": "O",
+      "count": 355,
+      "mean_price": 334.3293521126761,
+      "mean_availability_365": 242.9887323943662,
+      "pca_variance_explained": 0.9498734485100435,
+      "view_rotation_degrees": 0,
+      "view_flip_vertical": false
+    },
+    {
+      "cluster": 6,
+      "letter": "N",
+      "count": 337,
+      "mean_price": 483.25949554896147,
+      "mean_availability_365": 62.07121661721068,
+      "pca_variance_explained": 0.942114211204275,
+      "view_rotation_degrees": 30,
+      "view_flip_vertical": false
+    }
+  ],
+  "versions": {
+    "numpy": "2.5.4",
+    "pandas": "3.1.1",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2"
+  }
+}
