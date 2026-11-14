@@ -1,0 +1,10 @@
+{
+  "input_sha256": "9716c63cbd7dfb9ba5cb30350907dfce250b5b34346e838e6c6ddb2f7b84c07a",
+  "sample_rate": 16000,
+  "duration_seconds": 630.0,
+  "fft_size": 2048,
+  "overlap_samples": 1536,
+  "removed_frequency_bins": 230,
+  "tonal_gain": 0.015,
+  "normalization_gain": 3.4677042961120605
+}

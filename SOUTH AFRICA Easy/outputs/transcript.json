@@ -1,0 +1,191 @@
+{
+  "model": "badrex/w2v-bert-2.0-zulu-asr",
+  "audio": "/Users/misha/Desktop/LMML/SOUTH AFRICA Easy/outputs/cleaned.wav",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 20.0,
+      "text": "kungathatha isikhathi eside pase ilungelo lokuba isakhamosi ikhophi nekhophi yomthethosisekelo iyentela ingakhokhwa"
+    },
+    {
+      "start": 17.0,
+      "end": 37.0,
+      "text": "yentela ingakhokhwa namalungiselelo se nguhlelo lwezinga lwasekuqaleni amathathu omthethosisekelo wenyunyane"
+    },
+    {
+      "start": 34.0,
+      "end": 54.0,
+      "text": "ezokwamukela njengomsebenzisi wenqubo se zokubheka ukukhona nokungekho izingane ngakolunye uhlangothi"
+    },
+    {
+      "start": 51.0,
+      "end": 71.0,
+      "text": "izingane ngakolunye uhlangothi izinsuku ezingamashumi amathathu izindleko zokuhamba ngomsebenzi iphimbo nerejista akunelise ukuza"
+    },
+    {
+      "start": 68.0,
+      "end": 88.0,
+      "text": "abunelesi ubuza eningizimu afrika impendulo ibe imigqa se uhlengo lwezinkonzo ezenziwa abunelesi kahle inde"
+    },
+    {
+      "start": 85.0,
+      "end": 105.0,
+      "text": "abunelisi kahle inde pase kwezinyanga ezine zilandelana  sokushintsha izibongo zabancane kwesidumbu esisuka endaweni"
+    },
+    {
+      "start": 102.0,
+      "end": 122.0,
+      "text": "kwesidumbu esisuka endaweni komkhandlu kazwelonke wesifundazwe ubufakazi bokuthi ikuphi amazwe ziphathwa ngendlela"
+    },
+    {
+      "start": 119.0,
+      "end": 139.0,
+      "text": "ibasipoti esebenzayo ezinsukwini zonke izinhlaka zikahulumeni kwesicelo engenzi okuphikisana"
+    },
+    {
+      "start": 136.0,
+      "end": 156.0,
+      "text": "ii ukuphikisana inkontraki yesivumelwano eyenziwe ukuhlomula kwamalunga ebhodi ngesikhathi esicelo sakhe"
+    },
+    {
+      "start": 153.0,
+      "end": 173.0,
+      "text": "nini lesicelo sakhe le mali okumele ikhokhelwe s esetshenziswe ngokungafanele ngamaqembu ase okungagunyaziwe kunoma yimu"
+    },
+    {
+      "start": 170.0,
+      "end": 190.0,
+      "text": "okungagunyaziwe kungoma yimuphi abantu basepitoni abeve elingujuqu ngaphezu kwevodi othola ingeniso lezimanje iskhai"
+    },
+    {
+      "start": 187.0,
+      "end": 207.0,
+      "text": "bezimanje isikhathi sosuku olulodwa uhlelwayo olufakele se zokukhangisa nezamakhefu ziwulolonga"
+    },
+    {
+      "start": 204.0,
+      "end": 224.0,
+      "text": "lendlu yezishayamthetho kuzwelonke  eningizimu afrika isikhathi uthule nangokuphinisa ifundela"
+    },
+    {
+      "start": 221.0,
+      "end": 241.0,
+      "text": "nangokuphinisa ifundela uzothunyelelwa isikeshini samaphoyisa pase ungaqinisekisa ukuthunyelwa kwesaziso pase ukukhosela ngesikhathi isicelo"
+    },
+    {
+      "start": 238.0,
+      "end": 258.0,
+      "text": "ukukhosela ngesikhathi isicela zonke izigaba zibekelwe crimy award winners seukuthi imali kumele"
+    },
+    {
+      "start": 255.0,
+      "end": 275.0,
+      "text": "zokungena kuphele kwenziwe pase isicelo somyalo wentela pase umuntu owepukela isondlop"
+    },
+    {
+      "start": 272.0,
+      "end": 292.0,
+      "text": "usu okusungulwa ngalo ngqongqoshe wegatsha eliphethe pase ngokwanele umiqondo nemisebenzi"
+    },
+    {
+      "start": 289.0,
+      "end": 309.0,
+      "text": "umsebenzi isimo sakho sezentela ase asinalo ilungelo lokuvota pase kutshengisa ikhono elihle"
+    },
+    {
+      "start": 306.0,
+      "end": 326.0,
+      "text": "isikhoto passe nobudlelwane nezakhamuzi zaseningizimu pase a owesifazane pee"
+    },
+    {
+      "start": 323.0,
+      "end": 343.0,
+      "text": "amagama ezindawo awela se ilandela isakhiwo esisendimeni ukuhlela kukhiqiza indaba izokwenza umyalelo wokuthini"
+    },
+    {
+      "start": 340.0,
+      "end": 360.0,
+      "text": "izokwenza umyalelo wokuthi nonakekelo lwangemuva kokuya utshengisa ikono elihle lesi saphandle sinikezwe ebese ulifakela ehobies"
+    },
+    {
+      "start": 357.0,
+      "end": 377.0,
+      "text": "ebese ulifakela ehobis ulimi lwesibili lokwengeza ubufakazi bokuthi ikhophi ase umenzi wesicelo ngodinga"
+    },
+    {
+      "start": 374.0,
+      "end": 394.0,
+      "text": "umenzi wesicelo ngodinga pse lombhalo aluluhle kahle athunyelwa odwa angahambi se khetha impendulo okuyiyona"
+    },
+    {
+      "start": 391.0,
+      "end": 411.0,
+      "text": "khetha impendulo okuyiyona  isaziso sokushintsha komnikazi se izindawo zokunenisela imfuyo zethikithi lendiza yokuya"
+    },
+    {
+      "start": 408.0,
+      "end": 428.0,
+      "text": "zethikithi indiza yokuya pase umfundi uzokwazi ukulalela okwesikhashana elikezwa abantu imali yosizo lukahulumeni"
+    },
+    {
+      "start": 425.0,
+      "end": 445.0,
+      "text": "zizizo ukahulumeni pairisidi lokwamukela izicelo pase wentela uzosebenzisa ikhodi uywazi isicelo semvume yokuba"
+    },
+    {
+      "start": 442.0,
+      "end": 462.0,
+      "text": "isisicelo semvume yokuba inkantolo izobeka nokuthi kokuba iphelele isikhathi pse umkhandlu kazwelonke wesifundazwe"
+    },
+    {
+      "start": 459.0,
+      "end": 479.0,
+      "text": "isionke wesifundazwe sibhekane nodaba lomklomelo enezinto ezibunjwa emandulo senjengenyathelo lokuqala lobudlelwano"
+    },
+    {
+      "start": 476.0,
+      "end": 496.0,
+      "text": "ininyathelo lokuqala lobudlelwane pase sodokotela bezilwane solawo ase lolu hlelo lwezifundo umfundi uzokwazi ukusebenzisa"
+    },
+    {
+      "start": 493.0,
+      "end": 513.0,
+      "text": "umfundi uzokwazi ukusebenzisa se kudluzela ifomu lokufaka pase uzothumela isicelo sakho"
+    },
+    {
+      "start": 510.0,
+      "end": 530.0,
+      "text": "iqungulu lobukhanda ophethe esibekiwe sale nkonzo aeyaseningizimu afrika yalahleka"
+    },
+    {
+      "start": 527.0,
+      "end": 547.0,
+      "text": "ninalahleka umantshe uzobuyekeza amadokhumenti se ilayisense yokushayela okwesikhashana p ithekisi elinesakhiwo esihle"
+    },
+    {
+      "start": 544.0,
+      "end": 564.0,
+      "text": "asakiwo esihle ae lenqubo ibonakala sengathi ngobane abangenza isicelo pase yokuhlala unomphela esebenzayo"
+    },
+    {
+      "start": 561.0,
+      "end": 581.0,
+      "text": "uuhlala ulomphela esebenzayo wendlu ubupu oyedwa ubeka izizathu zokuthi pase avareje annual rainfol"
+    },
+    {
+      "start": 578.0,
+      "end": 598.0,
+      "text": "avareje annual rainfol s atholakala emahhovisi aphethe nakhona ofuna ukwamukelwa"
+    },
+    {
+      "start": 595.0,
+      "end": 615.0,
+      "text": "afana nalawo okuqala paabhale ingcwadi ecela sligcwalise ifomu lesinqomo ppase"
+    },
+    {
+      "start": 612.0,
+      "end": 630.0,
+      "text": "ngalo lolo suku pase ubenziwe sicele eneminyaga pase sithathwe yiningi lamalunga pa"
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+[
+  {
+    "audio": "voice_note.wav",
+    "start": 429,
+    "end": 441,
+    "text": "irisidi lokwamukela isicelo pse usosebenzisaiwazi",
+    "words": [
+      {
+        "word": "irisidi",
+        "start": 430.162,
+        "end": 430.843
+      },
+      {
+        "word": "lokwamukela",
+        "start": 431.043,
+        "end": 431.805
+      },
+      {
+        "word": "isicelo",
+        "start": 431.925,
+        "end": 432.506
+      },
+      {
+        "word": "pse",
+        "start": 433.227,
+        "end": 436.513
+      },
+      {
+        "word": "usosebenzisaiwazi",
+        "start": 437.494,
+        "end": 440.299
+      }
+    ]
+  },
+  {
+    "audio": "voice_note.wav",
+    "start": 436,
+    "end": 442,
+    "text": "wontela uzosebenzisa luthi ulwazi",
+    "words": [
+      {
+        "word": "wontela",
+        "start": 436.682,
+        "end": 437.184
+      },
+      {
+        "word": "uzosebenzisa",
+        "start": 437.525,
+        "end": 438.368
+      },
+      {
+        "word": "luthi",
+        "start": 438.769,
+        "end": 439.13
+      },
+      {
+        "word": "ulwazi",
+        "start": 439.873,
+        "end": 440.294
+      }
+    ]
+  },
+  {
+    "audio": "voice_note.wav",
+    "start": 437,
+    "end": 441,
+    "text": "uzosebenzisa wazi",
+    "words": [
+      {
+        "word": "uzosebenzisa",
+        "start": 437.523,
+        "end": 438.347
+      },
+      {
+        "word": "wazi",
+        "start": 440.035,
+        "end": 440.296
+      }
+    ]
+  },
+  {
+    "audio": "voice_note.wav",
+    "start": 438.3,
+    "end": 440.8,
+    "text": "",
+    "words": []
+  },
+  {
+    "audio": "outputs/cleaned.wav",
+    "start": 429,
+    "end": 441,
+    "text": "irisidi lokwamukela izicelo pase wentela uzosebenzisa ikhoti ulwazi",
+    "words": [
+      {
+        "word": "irisidi",
+        "start": 430.162,
+        "end": 430.843
+      },
+      {
+        "word": "lokwamukela",
+        "start": 431.043,
+        "end": 431.785
+      },
+      {
+        "word": "izicelo",
+        "start": 431.925,
+        "end": 432.506
+      },
+      {
+        "word": "pase",
+        "start": 433.467,
+        "end": 436.372
+      },
+      {
+        "word": "wentela",
+        "start": 436.673,
+        "end": 437.194
+      },
+      {
+        "word": "uzosebenzisa",
+        "start": 437.534,
+        "end": 438.376
+      },
+      {
+        "word": "ikhoti",
+        "start": 438.656,
+        "end": 439.097
+      },
+      {
+        "word": "ulwazi",
+        "start": 439.838,
+        "end": 440.299
+      }
+    ]
+  },
+  {
+    "audio": "outputs/cleaned.wav",
+    "start": 436,
+    "end": 442,
+    "text": "wentela uzosebenzisa ikhoti ulwazi",
+    "words": [
+      {
+        "word": "wentela",
+        "start": 436.682,
+        "end": 437.184
+      },
+      {
+        "word": "uzosebenzisa",
+        "start": 437.525,
+        "end": 438.368
+      },
+      {
+        "word": "ikhoti",
+        "start": 438.649,
+        "end": 439.09
+      },
+      {
+        "word": "ulwazi",
+        "start": 439.833,
+        "end": 440.294
+      }
+    ]
+  },
+  {
+    "audio": "outputs/cleaned.wav",
+    "start": 437,
+    "end": 441,
+    "text": "ikalela uzosebenzisa ikhodi ulwazi",
+    "words": [
+      {
+        "word": "ikalela",
+        "start": 437.0,
+        "end": 437.221
+      },
+      {
+        "word": "uzosebenzisa",
+        "start": 437.543,
+        "end": 438.367
+      },
+      {
+        "word": "ikhodi",
+        "start": 438.648,
+        "end": 439.09
+      },
+      {
+        "word": "ulwazi",
+        "start": 439.834,
+        "end": 440.296
+      }
+    ]
+  },
+  {
+    "audio": "outputs/cleaned.wav",
+    "start": 438.3,
+    "end": 440.8,
+    "text": "ulwazi",
+    "words": [
+      {
+        "word": "ulwazi",
+        "start": 439.832,
+        "end": 440.296
+      }
+    ]
+  },
+  {
+    "audio": "outputs/key_context_wide.wav",
+    "start": 429,
+    "end": 441,
+    "text": "irisidi lokwamukela izicelo pase uzosebenzisa ikudi ukwazi",
+    "words": [
+      {
+        "word": "irisidi",
+        "start": 430.162,
+        "end": 430.843
+      },
+      {
+        "word": "lokwamukela",
+        "start": 431.043,
+        "end": 431.785
+      },
+      {
+        "word": "izicelo",
+        "start": 431.925,
+        "end": 432.526
+      },
+      {
+        "word": "pase",
+        "start": 433.508,
+        "end": 436.432
+      },
+      {
+        "word": "uzosebenzisa",
+        "start": 437.534,
+        "end": 438.376
+      },
+      {
+        "word": "ikudi",
+        "start": 438.656,
+        "end": 439.117
+      },
+      {
+        "word": "ukwazi",
+        "start": 439.858,
+        "end": 440.299
+      }
+    ]
+  },
+  {
+    "audio": "outputs/key_context_wide.wav",
+    "start": 436,
+    "end": 442,
+    "text": "welela uzosebenzisa ikhuthi ukwazi",
+    "words": [
+      {
+        "word": "welela",
+        "start": 436.662,
+        "end": 437.184
+      },
+      {
+        "word": "uzosebenzisa",
+        "start": 437.525,
+        "end": 438.368
+      },
+      {
+        "word": "ikhuthi",
+        "start": 438.629,
+        "end": 439.11
+      },
+      {
+        "word": "ukwazi",
+        "start": 439.853,
+        "end": 440.294
+      }
+    ]
+  },
+  {
+    "audio": "outputs/key_context_wide.wav",
+    "start": 437,
+    "end": 441,
+    "text": "uzosebenzisa ikhuti ukwazi",
+    "words": [
+      {
+        "word": "uzosebenzisa",
+        "start": 437.523,
+        "end": 438.367
+      },
+      {
+        "word": "ikhuti",
+        "start": 438.648,
+        "end": 439.111
+      },
+      {
+        "word": "ukwazi",
+        "start": 439.854,
+        "end": 440.296
+      }
+    ]
+  },
+  {
+    "audio": "outputs/key_context_wide.wav",
+    "start": 438.3,
+    "end": 440.8,
+    "text": "ikhuthi ukwazi",
+    "words": [
+      {
+        "word": "ikhuthi",
+        "start": 438.623,
+        "end": 439.127
+      },
+      {
+        "word": "ukwazi",
+        "start": 439.873,
+        "end": 440.296
+      }
+    ]
+  },
+  {
+    "audio": "outputs/key_context_enhanced.wav",
+    "start": 429,
+    "end": 441,
+    "text": "irisidi lokwabhukela isicelo  sisebenzisa kuthi ulwazi",
+    "words": [
+      {
+        "word": "irisidi",
+        "start": 430.162,
+        "end": 430.843
+      },
+      {
+        "word": "lokwabhukela",
+        "start": 431.063,
+        "end": 431.785
+      },
+      {
+        "word": "isicelo",
+        "start": 431.945,
+        "end": 432.526
+      },
+      {
+        "word": "sisebenzisa",
+        "start": 437.614,
+        "end": 438.376
+      },
+      {
+        "word": "kuthi",
+        "start": 438.796,
+        "end": 439.097
+      },
+      {
+        "word": "ulwazi",
+        "start": 439.838,
+        "end": 440.299
+      }
+    ]
+  },
+  {
+    "audio": "outputs/key_context_enhanced.wav",
+    "start": 436,
+    "end": 442,
+    "text": "etela uzosebenzisa ikudi ulkwazo",
+    "words": [
+      {
+        "word": "etela",
+        "start": 436.702,
+        "end": 437.184
+      },
+      {
+        "word": "uzosebenzisa",
+        "start": 437.505,
+        "end": 438.388
+      },
+      {
+        "word": "ikudi",
+        "start": 438.649,
+        "end": 439.09
+      },
+      {
+        "word": "ulkwazo",
+        "start": 439.833,
+        "end": 440.334
+      }
+    ]
+  },
+  {
+    "audio": "outputs/key_context_enhanced.wav",
+    "start": 437,
+    "end": 441,
+    "text": "ukubala uzosebenzisa ikudi ukwazo",
+    "words": [
+      {
+        "word": "ukubala",
+        "start": 437.0,
+        "end": 437.241
+      },
+      {
+        "word": "uzosebenzisa",
+        "start": 437.503,
+        "end": 438.367
+      },
+      {
+        "word": "ikudi",
+        "start": 438.648,
+        "end": 439.09
+      },
+      {
+        "word": "ukwazo",
+        "start": 439.854,
+        "end": 440.296
+      }
+    ]
+  },
+  {
+    "audio": "outputs/key_context_enhanced.wav",
+    "start": 438.3,
+    "end": 440.8,
+    "text": "i ukwazi",
+    "words": [
+      {
+        "word": "i",
+        "start": 439.086,
+        "end": 439.106
+      },
+      {
+        "word": "ukwazi",
+        "start": 439.852,
+        "end": 440.296
+      }
+    ]
+  }
+]

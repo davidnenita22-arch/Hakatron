@@ -1,0 +1,17 @@
+{
+  "flag": "SIGMOID_ULWAZI",
+  "word": "ulwazi",
+  "keyword": "ikhodi",
+  "keyword_time_seconds": [
+    438.65,
+    439.1
+  ],
+  "key_time_seconds": [
+    439.83,
+    440.3
+  ],
+  "phrase": "uzosebenzisa ikhodi ulwazi",
+  "evidence": "outputs/key_verification.json",
+  "status": "Recovered from local audio; not submitted to or validated by the scoring platform",
+  "note": "CTC timestamps are approximate. No reference transcript was supplied."
+}
