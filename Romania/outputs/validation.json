@@ -1,0 +1,383 @@
+{
+  "seed": 0,
+  "folds": 5,
+  "cv": "StratifiedKFold(5,shuffle=True,random_state=0)",
+  "training_shape": [
+    7500,
+    50
+  ],
+  "sealed_shape": [
+    5000,
+    49
+  ],
+  "input_sha256": {
+    "dataset/train.csv": "702da3a99fe217b2085a85e493505a4ad7ad41d88e2b71984c190852e1dd849c",
+    "dataset/sealed.csv": "d23e2a2ca6ae30f69f0ed377efd64c35f8e09941353b2d6ad973a859f9ef364f"
+  },
+  "fold_results": [
+    {
+      "fold": 1,
+      "accuracy": 0.948,
+      "roc_auc": 0.9768649232979395,
+      "log_loss": 0.17921507276809248,
+      "errors": 78,
+      "n": 1500,
+      "gaussian_channels": [
+        "c03",
+        "c09",
+        "c12",
+        "c14",
+        "c15",
+        "c19",
+        "c27",
+        "c28",
+        "c30",
+        "c36",
+        "c39",
+        "c40"
+      ],
+      "regime_counts_narrow_broad": [
+        1521,
+        4479
+      ],
+      "gate_mean_variances": [
+        1.3114156487862594,
+        0.08260984512403938
+      ],
+      "broad_branch": {
+        "top4_channels": [
+          "c13",
+          "c38",
+          "c35",
+          "c43"
+        ],
+        "gate_channel": "c13",
+        "gate_threshold_standardized": 0.4837488979101181,
+        "parity_channels": [
+          "c38",
+          "c35",
+          "c43"
+        ],
+        "parity_below_gate": true,
+        "inner_selection_scores": [
+          {
+            "score": 0.9587053571428571,
+            "gate": "c13"
+          },
+          {
+            "score": 0.7935267857142857,
+            "gate": "c38"
+          },
+          {
+            "score": 0.7287946428571429,
+            "gate": "c35"
+          },
+          {
+            "score": 0.7421875,
+            "gate": "c43"
+          }
+        ],
+        "parity_count": 2980
+      },
+      "broad_gate_threshold_raw": -0.5884999913040896,
+      "seconds": 5.550525903701782
+    },
+    {
+      "fold": 2,
+      "accuracy": 0.9573333333333334,
+      "roc_auc": 0.9757703337712974,
+      "log_loss": 0.18736749258061225,
+      "errors": 64,
+      "n": 1500,
+      "gaussian_channels": [
+        "c03",
+        "c09",
+        "c12",
+        "c14",
+        "c15",
+        "c19",
+        "c27",
+        "c28",
+        "c30",
+        "c36",
+        "c39",
+        "c40"
+      ],
+      "regime_counts_narrow_broad": [
+        1518,
+        4482
+      ],
+      "gate_mean_variances": [
+        1.3106457429891334,
+        0.08251451748752854
+      ],
+      "broad_branch": {
+        "top4_channels": [
+          "c38",
+          "c13",
+          "c35",
+          "c43"
+        ],
+        "gate_channel": "c13",
+        "gate_threshold_standardized": 0.47745688259601593,
+        "parity_channels": [
+          "c38",
+          "c35",
+          "c43"
+        ],
+        "parity_below_gate": true,
+        "inner_selection_scores": [
+          {
+            "score": 0.7993311036789298,
+            "gate": "c38"
+          },
+          {
+            "score": 0.9531772575250836,
+            "gate": "c13"
+          },
+          {
+            "score": 0.7569676700111483,
+            "gate": "c35"
+          },
+          {
+            "score": 0.7591973244147158,
+            "gate": "c43"
+          }
+        ],
+        "parity_count": 2955
+      },
+      "broad_gate_threshold_raw": -0.5889999961946955,
+      "seconds": 5.352434158325195
+    },
+    {
+      "fold": 3,
+      "accuracy": 0.9466666666666667,
+      "roc_auc": 0.972946976714416,
+      "log_loss": 0.21305753311999356,
+      "errors": 80,
+      "n": 1500,
+      "gaussian_channels": [
+        "c03",
+        "c09",
+        "c12",
+        "c14",
+        "c15",
+        "c19",
+        "c27",
+        "c28",
+        "c30",
+        "c36",
+        "c39",
+        "c40"
+      ],
+      "regime_counts_narrow_broad": [
+        1494,
+        4506
+      ],
+      "gate_mean_variances": [
+        0.08216446662073984,
+        1.3042086400907018
+      ],
+      "broad_branch": {
+        "top4_channels": [
+          "c38",
+          "c13",
+          "c35",
+          "c43"
+        ],
+        "gate_channel": "c13",
+        "gate_threshold_standardized": 0.4680844396352768,
+        "parity_channels": [
+          "c38",
+          "c35",
+          "c43"
+        ],
+        "parity_below_gate": true,
+        "inner_selection_scores": [
+          {
+            "score": 0.779379157427938,
+            "gate": "c38"
+          },
+          {
+            "score": 0.9623059866962306,
+            "gate": "c13"
+          },
+          {
+            "score": 0.7283813747228381,
+            "gate": "c35"
+          },
+          {
+            "score": 0.7361419068736141,
+            "gate": "c43"
+          }
+        ],
+        "parity_count": 2955
+      },
+      "broad_gate_threshold_raw": -0.5884999951399659,
+      "seconds": 5.381957292556763
+    },
+    {
+      "fold": 4,
+      "accuracy": 0.948,
+      "roc_auc": 0.9767001925501066,
+      "log_loss": 0.18113704034159553,
+      "errors": 78,
+      "n": 1500,
+      "gaussian_channels": [
+        "c03",
+        "c09",
+        "c12",
+        "c14",
+        "c15",
+        "c19",
+        "c27",
+        "c28",
+        "c30",
+        "c36",
+        "c39",
+        "c40"
+      ],
+      "regime_counts_narrow_broad": [
+        1534,
+        4466
+      ],
+      "gate_mean_variances": [
+        0.08322525606976788,
+        1.3147992323611077
+      ],
+      "broad_branch": {
+        "top4_channels": [
+          "c38",
+          "c13",
+          "c43",
+          "c35"
+        ],
+        "gate_channel": "c13",
+        "gate_threshold_standardized": 0.4828546643257141,
+        "parity_channels": [
+          "c38",
+          "c43",
+          "c35"
+        ],
+        "parity_below_gate": true,
+        "inner_selection_scores": [
+          {
+            "score": 0.7539149888143176,
+            "gate": "c38"
+          },
+          {
+            "score": 0.9440715883668904,
+            "gate": "c13"
+          },
+          {
+            "score": 0.7259507829977628,
+            "gate": "c43"
+          },
+          {
+            "score": 0.7427293064876958,
+            "gate": "c35"
+          }
+        ],
+        "parity_count": 2950
+      },
+      "broad_gate_threshold_raw": -0.588499986433485,
+      "seconds": 5.2707359790802
+    },
+    {
+      "fold": 5,
+      "accuracy": 0.9466666666666667,
+      "roc_auc": 0.9693644424136503,
+      "log_loss": 0.2016258908427165,
+      "errors": 80,
+      "n": 1500,
+      "gaussian_channels": [
+        "c03",
+        "c09",
+        "c12",
+        "c14",
+        "c15",
+        "c19",
+        "c27",
+        "c28",
+        "c30",
+        "c36",
+        "c39",
+        "c40"
+      ],
+      "regime_counts_narrow_broad": [
+        1533,
+        4467
+      ],
+      "gate_mean_variances": [
+        0.08279596896769033,
+        1.3146880284022295
+      ],
+      "broad_branch": {
+        "top4_channels": [
+          "c13",
+          "c38",
+          "c43",
+          "c35"
+        ],
+        "gate_channel": "c13",
+        "gate_threshold_standardized": 0.4784349203109741,
+        "parity_channels": [
+          "c38",
+          "c43",
+          "c35"
+        ],
+        "parity_below_gate": true,
+        "inner_selection_scores": [
+          {
+            "score": 0.9586129753914989,
+            "gate": "c13"
+          },
+          {
+            "score": 0.8031319910514542,
+            "gate": "c38"
+          },
+          {
+            "score": 0.7494407158836689,
+            "gate": "c43"
+          },
+          {
+            "score": 0.7527964205816555,
+            "gate": "c35"
+          }
+        ],
+        "parity_count": 2956
+      },
+      "broad_gate_threshold_raw": -0.5879999983052475,
+      "seconds": 5.4275712966918945
+    }
+  ],
+  "baseline_cv": {
+    "logistic_regression": {
+      "scores": [
+        0.6026666666666667,
+        0.586,
+        0.596,
+        0.608,
+        0.6113333333333333
+      ],
+      "mean_accuracy": 0.6008000000000001
+    },
+    "rbf_svm": {
+      "scores": [
+        0.6686666666666666,
+        0.6646666666666666,
+        0.6906666666666667,
+        0.6813333333333333,
+        0.672
+      ],
+      "mean_accuracy": 0.6754666666666667
+    }
+  },
+  "specialist_oof": {
+    "accuracy": 0.9493333333333334,
+    "roc_auc": 0.9742312251497098,
+    "log_loss": 0.1924806059306021,
+    "errors": 380,
+    "n": 7500
+  }
+}
